@@ -1,4 +1,6 @@
-[WCOFOREVER](https://www.wcostream.net/)
+##Cartoons
+
+-[WCOFOREVER](https://www.wcostream.net/)
 - [WCOFOREVER 2](https://www.wcofun.net/)
 - [KimCartoon.li](https://kimcartoon.li/)
 - [SuperCartoons.net](https://www.supercartoons.net/)
