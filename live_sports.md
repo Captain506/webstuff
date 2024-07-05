@@ -59,6 +59,6 @@
 - [2DDL Various Sports](https://2ddl.cz/category/tv-sport)
 - [Match Week Football: MEGA + 1Fichier](https://www.matchweek.top/)
 - [Sport Video Torrents](https://www.sport-video.org.ua/index.html)
-- [Roja Directa](https://forum.rojadirecta.es/forumdisplay.php?15-VOD-Full¬events-(eventos-completos)
+- [Roja Directa](https://forum.rojadirecta.es/forumdisplay.php?15-VOD-Full¬events-(eventos-completos))
 - [ZK Full Games Football](https://zkfullgames.blogspot.com/)
 - [Full Eventos Spanish](https://fulleventos-deportes.blogspot.com/)
