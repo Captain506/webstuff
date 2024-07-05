@@ -3,4 +3,6 @@
 - [Light Novel](light_novel.md)
 - [Anime](anime.md)
 - [Manga](manga.md)
-
+- [Other Software](other_software.md)
+- [Extras](extras.md)
+- [Help](help.md)
