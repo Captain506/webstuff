@@ -198,3 +198,137 @@ This repository contains a curated list of websites categorized by genre, sub-ge
 - [SquidTV.net](http://squidtv.net/)
 - [Free IPTV M3U8](https://github.com/Free-TV/IPTV)
 - [Github IPTV Mirror](https://matthewgall.codes/mirrors/iptv)
+<br>
+# Cartoons and Anime
+
+## Cartoons
+
+- [WCOFOREVER](https://www.wcostream.net/)
+- [WCOFOREVER 2](https://www.wcofun.net/)
+- [KimCartoon.li](https://kimcartoon.li/)
+- [SuperCartoons.net](https://www.supercartoons.net/)
+- [TopCartoons.tv](https://www.topcartoons.tv/)
+- [KissCartoon.sh](https://kisscartoon.sh/kisscartoon.html)
+- [B98.tv](https://www.b98.tv/)
+- [FunnierMoments.net](https://www.funniermoments.net/)
+- [ToonamiAftermath.com](https://www.toonamiaftermath.com/)
+
+## Comics
+
+- [GetComics](https://getcomics.info/)
+- [Comick](https://comick.app/home)
+- [XoxoComics](https://xoxocomics.com/)
+- [Comic Search Engine](https://cse.google.com/cse?cx=006516753008110874046:p4hgytyrohg)
+- [ComicExtra](https://www.comicextra.com/)
+- [Comics All](https://comics-all.com/)
+- [booksDL](https://booksdl.org/comics0/)
+- [ReadComicOnline](https://readcomiconline.li/)
+
+## Light Novels
+
+- [Allnovel](https://allnovel.org/)
+- [Novel Updates](https://www.novelupdates.com/)
+- [Baka-Tsuki](https://www.baka-tsuki.org/project/index.php?title=Main_Page)
+- [Novel Hall](https://www.novelhall.com/)
+- [Octopii](https://octopii.co/)
+- [Free Web Novel](https://freewebnovel.com/)
+- [Ranobes](https://ranobes.net/)
+- [WebNovelsPub](https://www.webnovelpub.com/)
+- [Real Light Novel](https://www.readlightnovel.me/)
+- [Read Novel Full](https://readnovelfull.com/)
+
+## Anime
+
+### Streaming
+
+- [AniWave New 9Anime](https://aniwave.to/)
+- [KickAssAnime + Crunchy, Bilibili](https://www2.kickassanime.ro/)
+- [HiAnime New Zoro](https://hianime.to/home)
+- [AnimePahe](https://animepahe.com/)
+- [AllAnime + Crunchy, Gogo](https://allmanga.to/anime)
+- [Anitaku New Gogo](https://anitaku.to/)
+
+### Download
+
+- [Tokyo Insider Direct](https://www.tokyoinsider.com/)
+- [Anime Out Direct](https://www.animeout.xyz/)
+- [Anime Tosho Hosting Sites](https://animetosho.org/)
+- [AniDL Index, MEGA](https://anidl.org/)
+- [Hi10Anime Direct Ads](https://hi10anime.com/)
+- [Anime Senpai GDrive, MEGA](https://www.animesenpai4u.com/)
+- [Kayo Anime GDrive](https://kayoanime.com/)
+- [Chauthanh Direct](https://chauthanh.info/)
+- [Anime Time GDrive Ads](https://www.animetime.pw/)
+- [RIP Crabby Anime GDrive](https://ripcrabbyanime.in/)
+- [rbx1](http://59.rbx5.ovh.abcd.network/)
+- [rbx2](http://52.rbx5.ovh.abcd.network/)
+- [rbx3](http://511.rbx.abcvg.ovh/)
+- [rbx4](http://508.rbx.abcvg.ovh/)
+- [rbx5](http://510.rbx.abcvg.ovh/)
+- [rbx6](http://58.rbx5.ovh.abcd.network/)
+
+## Manga
+
+### Aggregator
+
+- [Mangadex](https://mangadex.org/)
+- [Comick](https://comick.app/home)
+- [Mangapark](https://mangapark.net/)
+- [Cubari Proxy](https://proxy.cubari.moe/)
+- [Manga4Life](https://manga4life.com/)
+- [Manga Katana](https://mangakatana.com/)
+- [Colored Manga](https://coloredmanga.com/)
+- [Manga Fire](https://mangafire.to/home)
+- [Manga Reader](https://mangareader.to/home)
+- [Batoto](https://battwo.com/)
+- [Mangahasu](https://mangahasu.se/)
+- [Toonily](https://toonily.com/)
+- [Manga Buddy](https://mangabuddy.com/)
+- [Mangacultivator](https://mangacultivator.com/)
+- [MangaNato](https://chapmanganato.com/nato)
+- [Manga Hub](https://mangahub.io/)
+- [ReadM](https://readm.org/)
+- [Manga Here](https://www.mangahere.cc/)
+- [Manga Fox](https://fanfox.net/)
+
+### Scans
+
+- [Animated Glitched Scans](https://anigliscans.com/)
+- [Assorted Scans](https://assortedscans.com/)
+- [Danke fürs Lesen Scans](https://danke.moe/)
+- [LHTranslation](https://lhtranslation.net/)
+- [Scylla Scans](https://scyllascans.org/r)
+- [Ansh Scans](https://anshscans.org/)
+- [Disaster Scans](https://disasterscans.com/)
+- [Drake Scans](https://drakescans.com/)
+- [Manhua Ga](https://manhuaga.com/)
+- [Manhua Plus](https://manhuaplus.com/)
+- [Manhua SY](https://www.manhuasy.com/manhua/)
+- [Manga SY](https://www.mangasy.com/)
+- [xCaliBR Scans](https://xcalibrscans.com/)
+
+## Other Software
+
+### Android
+
+- Manga
+- Anime
+- Light Novel
+
+### iOS
+
+- Manga
+- Anime
+
+### PC & Laptop
+
+- Manga
+- Anime
+- Light Novels
+- Comics
+
+## Extras
+
+- Tracks
+- Index
+- Tools
