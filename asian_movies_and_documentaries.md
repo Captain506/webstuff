@@ -1,1 +1,22 @@
+#### Streaming
+- [DramaCool](https://www.dramacool9.co/)
+- [OneTouch TV](https://onetouchtv.me/)
+- [KISSKH](https://kisskh.co/)
+- [MyasianTV](https://www4.myasiantv.cc/)
+- [dramanice](https://wwv.dramanice.mx/)
+- [Asianflix.app](https://asiaflix.app/)
+- [KissTVShow](https://kisstvshow.to/)
+- [KShow123](https://kshow123.tv/)
+- [RakutenVIKI](https://www.viki.com/)
+- [AsianCrush](https://www.asiancrush.com/)
+- [Kocowa](https://www.kocowa.com/)
+- [GOplay](https://goplay.ml/)
 
+#### Downloads
+- [Dramaday](https://dramaday.net/)
+- [BakiGuy](https://bagikuy.com/)
+- [dramahd](https://dramahd.me/)
+- [Dramas Drive](https://dramas-drive.sujalgoel.me/0:/)
+- [DORAMA X264](https://doramax264.com/)
+- [Mini Drama](https://minidrama.net/)
+- [MKV Drama](https://mkvdrama.org/)
