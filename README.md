@@ -7,7 +7,6 @@ Welcome to this repo, where you'll find a wide range of resources across various
 
 This repository contains a curated list of websites categorized by genre, sub-genre, and co-sub-genre.
 
-## Genres
 # Awesome Resources
 
 Welcome to Awesome Resources, a collection of categorized links and resources.
@@ -15,7 +14,18 @@ Welcome to Awesome Resources, a collection of categorized links and resources.
 ## Genres
 
 - [Online Streaming](online_streaming.md)
-- # Online Streaming
+- [Cartoons and Anime](cartoons_and_anime.md)
+- [Graphics and Design](graphics_and_design.md)
+- [Books and Stuff](books_and_stuff.md)
+- [Music](music.md)
+- [Gaming](gaming.md)
+- [Windows and Mac](windows_and_mac.md)
+- [AI](ai.md)
+- [Education and Learning](education_and_learning.md)
+- [Mobile Software](mobile_software.md)
+- [File Handling and Storage](file_handling_and_storage.md)
+
+  # Online Streaming
 
 - [General streaming](#)
   - Movies
@@ -41,13 +51,3 @@ Welcome to Awesome Resources, a collection of categorized links and resources.
       - Downloads
   - Live TV
 
-- [Cartoons and Anime](cartoons_and_anime.md)
-- [Graphics and Design](graphics_and_design.md)
-- [Books and Stuff](books_and_stuff.md)
-- [Music](music.md)
-- [Gaming](gaming.md)
-- [Windows and Mac](windows_and_mac.md)
-- [AI](ai.md)
-- [Education and Learning](education_and_learning.md)
-- [Mobile Software](mobile_software.md)
-- [File Handling and Storage](file_handling_and_storage.md)
