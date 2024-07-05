@@ -15,6 +15,32 @@ Welcome to Awesome Resources, a collection of categorized links and resources.
 ## Genres
 
 - [Online Streaming](online_streaming.md)
+- # Online Streaming
+
+- [General streaming](#)
+  - Movies
+    - [Binge Watch](https://bingewatch.to/home)
+    - [SEEZ](https://seez.su/)
+    - [Watch Lonelil](https://watch.lonelil.com/)
+    - [TV Cross](https://tv.cross.moe/)
+    - [Sus Flix](https://susflix.tv/)
+  - Asian movies and documentaries
+    - Streaming
+    - Downloads
+  - Foreign movies and documentaries
+    - Indian
+    - French
+    - Italian
+    - German
+    - Greek
+    - Spanish
+  - Live sports
+    - Live Sports
+    - Full replays and downloads
+      - Replays
+      - Downloads
+  - Live TV
+
 - [Cartoons and Anime](cartoons_and_anime.md)
 - [Graphics and Design](graphics_and_design.md)
 - [Books and Stuff](books_and_stuff.md)
