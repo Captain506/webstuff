@@ -3,13 +3,9 @@
 Welcome
 <br>
 Welcome to this repo, where you'll find a wide range of resources across various genres.The repo is frequently updated and always welcomes community contributions.
-# Website Links by Genre
 
-This repository contains a curated list of websites categorized by genre, sub-genre, and co-sub-genre.
+This repository contains a curated list of websites categorized by genre.
 
-# Awesome Resources
-
-Welcome to Awesome Resources, a collection of categorized links and resources.
 
 ## Genres
 
