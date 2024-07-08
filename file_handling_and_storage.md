@@ -1,9 +1,6 @@
 <!DOCTYPE html>
 <html lang="en" class="h-full">
 <head>
-<p>Discover top websites for file storage, hosting and quick temporary sharing in our curated directory. Find the right solution, whether you need cloud-based storage or dedicated file hosting services.</p>
-<doc-tabs>
-<doc-tab id="storage">
 <template #title>#Storage</template>
 <ul>
 <li><a href="https://mega.nz/">MEGA</a> <span class="no-link inline-flex items-center justify-center font-medium leading-none whitespace-nowrap text-blue-600 bg-blue-100 h-4.5 px-1.5 text-3xs rounded">
@@ -43,8 +40,6 @@
     <span>1 GB</span>
 </span></li>
 </ul>
-</doc-tab>
-<doc-tab id="hosts">
 <template #title>Hosts</template>
 <p>Some of these delete your files after a certain period of inactivity. Expiration time of files after the last download is stated alongside the website.</p>
 <ul>
@@ -73,8 +68,6 @@
     <span>Unknown</span>
 </span></li>
 </ul>
-</doc-tab>
-<doc-tab id="temp-sharing">
 <template #title>Temp Sharing</template>
 <p>Use these for quick sharing of files with your friends, family or teams. Expiration time of files is stated alongside the website.</p>
 <ul>
