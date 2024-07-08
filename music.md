@@ -31,9 +31,9 @@
 - [SpotX](https://github.com/amd64fox/SpotX) - Adblocker for Spotify Windows application.
   - [SpotX Mac OS](https://github.com/SpotX-CLI/SpotX-Mac) - Mac OS version.
   - [SpotX Linux](https://github.com/SpotX-CLI/SpotX-Linux) - Linux version.
-- [Spotify Premium App iOS](https://www.fireload.com/ed509338faab3897/Spotify_Premium_Unlocked_8.8.1.ipa) - Modded Spotify app for iOS.
-- [Spotify Premium App Android](https://www.mediafire.com/file/jj9lqxcba69jonv/Spotify-v8.8.0.347_build_95947133-Mod-arm64-v8a.apk/file) - Modded Spotify app for Android.
-- [xManager](https://www.xmanagerapp.com/) - Get latest modded versions of Spotify for Android.
+  - [Spotify Premium App iOS](https://www.fireload.com/ed509338faab3897/Spotify_Premium_Unlocked_8.8.1.ipa) - Modded Spotify app for iOS.
+  - [Spotify Premium App Android](https://www.mediafire.com/file/jj9lqxcba69jonv/Spotify-v8.8.0.347_build_95947133-Mod-arm64-v8a.apk/file) - Modded Spotify app for Android.
+  - [xManager](https://www.xmanagerapp.com/) - Get latest modded versions of Spotify for Android.
 - [Exportify](https://watsonbox.github.io/exportify/) - Export Spotify playlists to other platforms like YouTube and Deezer.
 - [Spicetify CLI](https://github.com/spicetify/spicetify-cli) - Customize and theme Spotify on desktop.
 - [Spotify Dedup](https://spotify-dedup.com/) - Find and remove duplicate songs from Spotify playlists.
