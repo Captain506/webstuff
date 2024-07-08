@@ -1,15 +1,15 @@
 # Download
 
-- [Zotify](https://zotify.xyz/zotify/zotify) - Website for downloading music from Spotify.
-- [doubledouble.top](https://doubledouble.top/) - Offers various downloads, including music.
-- [Tidal-DL](https://github.com/yaronzz/Tidal-Media-Downloader) - GitHub repository for downloading media from Tidal.
-- [Deemix](https://archive.org/details/deemix) - A tool for downloading music from Deezer.
-- [D-Fi](https://notabug.org/sayem314/d-fi) - Download music from SoundCloud.
-- [SCDL](https://github.com/flyingrub/scdl) - SoundCloud Downloader.
-- [Qobuz-DL](https://github.com/vitiko98/qobuz-dl) - Download music from Qobuz.
-- [Orpheus-DL](https://github.com/yarrm80s/orpheusdl) - A music downloader for various platforms.
-- [Stacher.io](https://stacher.io/) - Music streaming and downloading service.
-- [Soulseek](http://www.slsknet.org/news/) - A peer-to-peer file-sharing network for music.
+- [Zotify](https://zotify.xyz/zotify/zotify) 
+- [doubledouble.top](https://doubledouble.top/)
+- [Tidal-DL](https://github.com/yaronzz/Tidal-Media-Downloader)
+- [Deemix](https://archive.org/details/deemix)
+- [D-Fi](https://notabug.org/sayem314/d-fi) 
+- [SCDL](https://github.com/flyingrub/scdl)
+- [Qobuz-DL](https://github.com/vitiko98/qobuz-dl)
+- [Orpheus-DL](https://github.com/yarrm80s/orpheusdl)
+- [Stacher.io](https://stacher.io/)
+- [Soulseek](http://www.slsknet.org/news/)
 
 # Music Discovery
 
