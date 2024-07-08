@@ -1,7 +1,7 @@
+# Storage
 <!DOCTYPE html>
 <html lang="en" class="h-full">
 <head>
-<template #title>#Storage</template>
 <ul>
 <li><a href="https://mega.nz/">MEGA</a> <span class="no-link inline-flex items-center justify-center font-medium leading-none whitespace-nowrap text-blue-600 bg-blue-100 h-4.5 px-1.5 text-3xs rounded">
     <span>20 GB</span>
@@ -40,6 +40,10 @@
     <span>1 GB</span>
 </span></li>
 </ul>
+    <!DOCTYPE html>
+<html lang="en" class="h-full">
+<head>
+<ul>
 <template #title>Hosts</template>
 <p>Some of these delete your files after a certain period of inactivity. Expiration time of files after the last download is stated alongside the website.</p>
 <ul>
@@ -68,6 +72,10 @@
     <span>Unknown</span>
 </span></li>
 </ul>
+    <!DOCTYPE html>
+<html lang="en" class="h-full">
+<head>
+<ul>
 <template #title>Temp Sharing</template>
 <p>Use these for quick sharing of files with your friends, family or teams. Expiration time of files is stated alongside the website.</p>
 <ul>
@@ -117,5 +125,3 @@
     <span>Uses your internet.</span>
 </span></li>
 </ul>
-</doc-tab>
-</doc-tabs>
