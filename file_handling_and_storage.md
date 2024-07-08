@@ -1,127 +1,45 @@
 # Storage
-<!DOCTYPE html>
-<html lang="en" class="h-full">
-<head>
-<ul>
-<li><a href="https://mega.nz/">MEGA</a> <span class="no-link inline-flex items-center justify-center font-medium leading-none whitespace-nowrap text-blue-600 bg-blue-100 h-4.5 px-1.5 text-3xs rounded">
-    <span>20 GB</span>
-</span></li>
-<li><a href="https://filen.io/">Filen.io</a> <span class="no-link inline-flex items-center justify-center font-medium leading-none whitespace-nowrap text-blue-600 bg-blue-100 h-4.5 px-1.5 text-3xs rounded">
-    <span>10 GB</span>
-</span></li>
-<li><a href="https://www.storj.io/">STORJ</a> <span class="no-link inline-flex items-center justify-center font-medium leading-none whitespace-nowrap text-blue-600 bg-blue-100 h-4.5 px-1.5 text-3xs rounded">
-    <span>25 GB</span>
-</span></li>
-<li><a href="https://www.dropbox.com/">Dropbox</a> <span class="no-link inline-flex items-center justify-center font-medium leading-none whitespace-nowrap text-blue-600 bg-blue-100 h-4.5 px-1.5 text-3xs rounded">
-    <span>2 GB</span>
-</span></li>
-<li><a href="https://onedrive.live.com/">One Drive</a> <span class="no-link inline-flex items-center justify-center font-medium leading-none whitespace-nowrap text-blue-600 bg-blue-100 h-4.5 px-1.5 text-3xs rounded">
-    <span>5 GB</span>
-</span></li>
-<li><a href="https://drive.google.com/">Google Drive</a> <span class="no-link inline-flex items-center justify-center font-medium leading-none whitespace-nowrap text-blue-600 bg-blue-100 h-4.5 px-1.5 text-3xs rounded">
-    <span>15 GB</span>
-</span></li>
-<li><a href="https://www.terabox.com/">TeraBox</a> <span class="no-link inline-flex items-center justify-center font-medium leading-none whitespace-nowrap text-blue-600 bg-blue-100 h-4.5 px-1.5 text-3xs rounded">
-    <span>1 TB</span>
-</span></li>
-<li><a href="https://disk.yandex.com/">Yandex Disk</a> <span class="no-link inline-flex items-center justify-center font-medium leading-none whitespace-nowrap text-blue-600 bg-blue-100 h-4.5 px-1.5 text-3xs rounded">
-    <span>5 GB</span>
-</span></li>
-<li><a href="https://www.pcloud.com/">P Cloud</a> <span class="no-link inline-flex items-center justify-center font-medium leading-none whitespace-nowrap text-blue-600 bg-blue-100 h-4.5 px-1.5 text-3xs rounded">
-    <span>10 GB</span>
-</span></li>
-<li><a href="https://internxt.com/">INTERNXT</a> <span class="no-link inline-flex items-center justify-center font-medium leading-none whitespace-nowrap text-blue-600 bg-blue-100 h-4.5 px-1.5 text-3xs rounded">
-    <span>10 GB</span>
-</span></li>
-<li><a href="https://icedrive.net/">Ice Drive</a> <span class="no-link inline-flex items-center justify-center font-medium leading-none whitespace-nowrap text-blue-600 bg-blue-100 h-4.5 px-1.5 text-3xs rounded">
-    <span>10 GB</span>
-</span></li>
-<li><a href="https://proton.me/drive">Proton Drive</a> <span class="no-link inline-flex items-center justify-center font-medium leading-none whitespace-nowrap text-blue-600 bg-blue-100 h-4.5 px-1.5 text-3xs rounded">
-    <span>1 GB</span>
-</span></li>
-</ul>
-    <!DOCTYPE html>
-<html lang="en" class="h-full">
-<head>
-<ul>
-<template #title>Hosts</template>
-<p>Some of these delete your files after a certain period of inactivity. Expiration time of files after the last download is stated alongside the website.</p>
-<ul>
-<li><a href="https://www.mediafire.com/">Mediafire</a></li>
-<li><a href="https://www.fireload.com/">Fire Load</a></li>
-<li><a href="https://pomf.lain.la/">Pomf</a></li>
-<li><a href="https://media.cm/">Media.cm</a> <span class="no-link inline-flex items-center justify-center font-medium leading-none whitespace-nowrap text-blue-600 bg-blue-100 h-4.5 px-1.5 text-3xs rounded">
-    <span>Never - Only Videos.</span>
-</span></li>
-<li><a href="https://pixeldrain.com/">Pixel Drain</a> <span class="no-link inline-flex items-center justify-center font-medium leading-none whitespace-nowrap text-blue-600 bg-blue-100 h-4.5 px-1.5 text-3xs rounded">
-    <span>60 days.</span>
-</span></li>
-<li><a href="https://krakenfiles.com/">Kraken Files</a> <span class="no-link inline-flex items-center justify-center font-medium leading-none whitespace-nowrap text-blue-600 bg-blue-100 h-4.5 px-1.5 text-3xs rounded">
-    <span>90 days.</span>
-</span></li>
-<li><a href="https://1fichier.com/">1Fichier</a> <span class="no-link inline-flex items-center justify-center font-medium leading-none whitespace-nowrap text-blue-600 bg-blue-100 h-4.5 px-1.5 text-3xs rounded">
-    <span>15 days.</span>
-</span></li>
-<li><a href="https://mixdrop.co/">MixDrop</a> <span class="no-link inline-flex items-center justify-center font-medium leading-none whitespace-nowrap text-blue-600 bg-blue-100 h-4.5 px-1.5 text-3xs rounded">
-    <span>60 days.</span>
-</span></li>
-<li><a href="https://bowfile.com/">Bow File</a> <span class="no-link inline-flex items-center justify-center font-medium leading-none whitespace-nowrap text-blue-600 bg-blue-100 h-4.5 px-1.5 text-3xs rounded">
-    <span>25 days.</span>
-</span></li>
-<li><a href="https://cyberfile.me/">Cyber File</a> <span class="no-link inline-flex items-center justify-center font-medium leading-none whitespace-nowrap text-blue-600 bg-blue-100 h-4.5 px-1.5 text-3xs rounded">
-    <span>Unknown</span>
-</span></li>
-</ul>
-    <!DOCTYPE html>
-<html lang="en" class="h-full">
-<head>
-<ul>
-<template #title>Temp Sharing</template>
-<p>Use these for quick sharing of files with your friends, family or teams. Expiration time of files is stated alongside the website.</p>
-<ul>
-<li><a href="https://wormhole.app/">Wormhole</a> <span class="no-link inline-flex items-center justify-center font-medium leading-none whitespace-nowrap text-blue-600 bg-blue-100 h-4.5 px-1.5 text-3xs rounded">
-    <span>24 hours.</span>
-</span></li>
-<li><a href="https://wetransfer.com/">We Transfer</a> <span class="no-link inline-flex items-center justify-center font-medium leading-none whitespace-nowrap text-blue-600 bg-blue-100 h-4.5 px-1.5 text-3xs rounded">
-    <span>1 week.</span>
-</span></li>
-<li><a href="https://www.swisstransfer.com/en-gb">Swiss Transfer</a> <span class="no-link inline-flex items-center justify-center font-medium leading-none whitespace-nowrap text-blue-600 bg-blue-100 h-4.5 px-1.5 text-3xs rounded">
-    <span>30 days.</span>
-</span></li>
-<li><a href="https://volafile.org/">Vola File</a> <span class="no-link inline-flex items-center justify-center font-medium leading-none whitespace-nowrap text-blue-600 bg-blue-100 h-4.5 px-1.5 text-3xs rounded">
-    <span>2 days.</span>
-</span></li>
-<li><a href="https://litterbox.catbox.moe/">Litter Box</a> <span class="no-link inline-flex items-center justify-center font-medium leading-none whitespace-nowrap text-blue-600 bg-blue-100 h-4.5 px-1.5 text-3xs rounded">
-    <span>3 days.</span>
-</span></li>
-<li><a href="https://send-anywhere.com/">Send Anywhere</a> <span class="no-link inline-flex items-center justify-center font-medium leading-none whitespace-nowrap text-blue-600 bg-blue-100 h-4.5 px-1.5 text-3xs rounded">
-    <span>48 hours.</span>
-</span></li>
-<li><a href="https://file.kiwi/">Kiwi</a> <span class="no-link inline-flex items-center justify-center font-medium leading-none whitespace-nowrap text-blue-600 bg-blue-100 h-4.5 px-1.5 text-3xs rounded">
-    <span>48 hours.</span>
-</span></li>
-<li><a href="https://transfer.pcloud.com/">P Cloud Transfer</a> <span class="no-link inline-flex items-center justify-center font-medium leading-none whitespace-nowrap text-blue-600 bg-blue-100 h-4.5 px-1.5 text-3xs rounded">
-    <span>7 days.</span>
-</span></li>
-<li><a href="https://www.sendgb.com/en/">Send GB</a> <span class="no-link inline-flex items-center justify-center font-medium leading-none whitespace-nowrap text-blue-600 bg-blue-100 h-4.5 px-1.5 text-3xs rounded">
-    <span>5 days.</span>
-</span></li>
-<li><a href="https://send.vis.ee/">Send</a> <span class="no-link inline-flex items-center justify-center font-medium leading-none whitespace-nowrap text-blue-600 bg-blue-100 h-4.5 px-1.5 text-3xs rounded">
-    <span>3 days.</span>
-</span></li>
-<li><a href="https://encl.io/">Encl</a> <span class="no-link inline-flex items-center justify-center font-medium leading-none whitespace-nowrap text-blue-600 bg-blue-100 h-4.5 px-1.5 text-3xs rounded">
-    <span>7 days.</span>
-</span></li>
-<li><a href="https://uguu.se/">Uguu</a> <span class="no-link inline-flex items-center justify-center font-medium leading-none whitespace-nowrap text-blue-600 bg-blue-100 h-4.5 px-1.5 text-3xs rounded">
-    <span>48 hours.</span>
-</span></li>
-<li><a href="https://send.cm/">Send.CM</a> <span class="no-link inline-flex items-center justify-center font-medium leading-none whitespace-nowrap text-blue-600 bg-blue-100 h-4.5 px-1.5 text-3xs rounded">
-    <span>15 days.</span>
-</span></li>
-<li><a href="https://filetransfer.io/">File Transfer</a> <span class="no-link inline-flex items-center justify-center font-medium leading-none whitespace-nowrap text-blue-600 bg-blue-100 h-4.5 px-1.5 text-3xs rounded">
-    <span>21 days.</span>
-</span></li>
-<li><a href="https://justbeamit.com/">Just Beam It</a> <span class="no-link inline-flex items-center justify-center font-medium leading-none whitespace-nowrap text-blue-600 bg-blue-100 h-4.5 px-1.5 text-3xs rounded">
-    <span>Uses your internet.</span>
-</span></li>
-</ul>
+
+- MEGA [https://mega.nz/] - 20 GB
+- Filen.io [https://filen.io/] - 10 GB
+- STORJ [https://www.storj.io/] - 25 GB
+- Dropbox [https://www.dropbox.com/] - 2 GB
+- One Drive [https://onedrive.live.com/] - 5 GB
+- Google Drive [https://drive.google.com/] - 15 GB
+- TeraBox [https://www.terabox.com/] - 1 TB
+- Yandex Disk [https://disk.yandex.com/] - 5 GB
+- P Cloud [https://www.pcloud.com/] - 10 GB
+- INTERNXT [https://internxt.com/] - 10 GB
+- Ice Drive [https://icedrive.net/] - 10 GB
+- Proton Drive [https://proton.me/drive] - 1 GB
+
+# Hosts
+
+- Mediafire [https://www.mediafire.com/] - Never - Only Videos.
+- Fire Load [https://www.fireload.com/]
+- Pomf [https://pomf.lain.la/]
+- Media.cm [https://media.cm/] - Never - Only Videos.
+- Pixel Drain [https://pixeldrain.com/] - 60 days.
+- Kraken Files [https://krakenfiles.com/] - 90 days.
+- 1Fichier [https://1fichier.com/] - 15 days.
+- MixDrop [https://mixdrop.co/] - 60 days.
+- Bow File [https://bowfile.com/] - 25 days.
+- Cyber File [https://cyberfile.me/] - Unknown
+
+# Temporary Sharing
+
+- Wormhole [https://wormhole.app/] - 24 hours.
+- We Transfer [https://wetransfer.com/] - 1 week.
+- Swiss Transfer [https://www.swisstransfer.com/en-gb] - 30 days.
+- Vola File [https://volafile.org/] - 2 days.
+- Litter Box [https://litterbox.catbox.moe/] - 3 days.
+- Send Anywhere [https://send-anywhere.com/] - 48 hours.
+- Kiwi [https://file.kiwi/] - 48 hours.
+- P Cloud Transfer [https://transfer.pcloud.com/] - 7 days.
+- Send GB [https://www.sendgb.com/en/] - 5 days.
+- Send [https://send.vis.ee/] - 3 days.
+- Encl [https://encl.io/] - 7 days.
+- Uguu [https://uguu.se/] - 48 hours.
+- Send.CM [https://send.cm/] - 15 days.
+- File Transfer [https://filetransfer.io/] - 21 days.
+- Just Beam It [https://justbeamit.com/] - Uses your internet.
