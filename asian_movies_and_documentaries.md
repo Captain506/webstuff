@@ -1,4 +1,4 @@
-#### Streaming
+## Streaming
 - [DramaCool](https://www.dramacool9.co/)
 - [OneTouch TV](https://onetouchtv.me/)
 - [KISSKH](https://kisskh.co/)
@@ -12,7 +12,7 @@
 - [Kocowa](https://www.kocowa.com/)
 - [GOplay](https://goplay.ml/)
 
-#### Downloads
+## Downloads
 - [Dramaday](https://dramaday.net/)
 - [BakiGuy](https://bagikuy.com/)
 - [dramahd](https://dramahd.me/)
