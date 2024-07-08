@@ -4,7 +4,7 @@
 <p>Discover top websites for file storage, hosting and quick temporary sharing in our curated directory. Find the right solution, whether you need cloud-based storage or dedicated file hosting services.</p>
 <doc-tabs>
 <doc-tab id="storage">
-<template #title>Storage</template>
+<template #title>#Storage</template>
 <ul>
 <li><a href="https://mega.nz/">MEGA</a> <span class="no-link inline-flex items-center justify-center font-medium leading-none whitespace-nowrap text-blue-600 bg-blue-100 h-4.5 px-1.5 text-3xs rounded">
     <span>20 GB</span>
