@@ -1,6 +1,6 @@
 # Online Streaming
 
-- [General streaming](general_streaming.md)
+- [Movies streaming](general_streaming.md)
 - [Asian movies and documentaries](asian_movies_and_documentaries.md)
 - [Foreign movies and documentaries](foreign-movies-and-documentaries.md)
 - [Live sports](live-sports.md)
