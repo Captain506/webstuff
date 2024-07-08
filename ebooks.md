@@ -12,7 +12,7 @@
 - [RaveBookSearch](https://ravebooksearch.com/?q=%s)
 - [My Anonamouse](https://www.myanonamouse.net/)
 
-## Z-Library Access
+### How to acess Z-Library
 
 - [Z-Library](https://singlelogin.re/)
 - [Z-Library Android App](https://www.fireload.com/dd08ce72de596343/z-library.apk)
