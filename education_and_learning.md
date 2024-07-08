@@ -49,13 +49,16 @@
 - Offers free, peer-reviewed, openly-licensed textbooks and resources for college and high school students, with materials in subjects like math, science, and humanities.
 
 ## Open Learn
-#### - [Open Learn](https://www.open.edu/openlearn/) - Provides free online courses, articles, videos, and podcasts across various subjects from The Open University.
+#### - [Open Learn](https://www.open.edu/openlearn/)
+- Provides free online courses, articles, videos, and podcasts across various subjects from The Open University.
 
 ## Open Textbook Library
-#### - [Open Textbook Library](https://open.umn.edu/opentextbooks) - Offers free, peer-reviewed, openly-licensed textbooks that can be used, adapted, and distributed.
+#### - [Open Textbook Library](https://open.umn.edu/opentextbooks)
+- Offers free, peer-reviewed, openly-licensed textbooks that can be used, adapted, and distributed.
 
 ## Swayam
-#### - [Swayam](https://swayam.gov.in/) - Provides courses and degrees from Indian universities and institutions across various subjects, with options to earn credits or certificates.
+#### - [Swayam](https://swayam.gov.in/) 
+- Provides courses and degrees from Indian universities and institutions across various subjects, with options to earn credits or certificates.
 
 ## NPTEL
 #### - [NPTEL](https://nptel.ac.in/)
