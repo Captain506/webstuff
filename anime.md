@@ -1,5 +1,12 @@
 ## Anime
 
+#### Anime Index
+
+- [Anicrush](https://anicrush.to/)
+      No anti adblock   Comments
+      Mobile Responsive
+      Quality 1080p, 720p, 480p
+
 ### Streaming
 
 - [AniWave](https://aniwave.to/) New 9Anime
