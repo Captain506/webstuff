@@ -3,10 +3,9 @@
 #### Anime Index
 
 - [Anicrush](https://anicrush.to/)
-- <br />
-      No anti adblock   Comments
-      Mobile Responsive
-      Quality 1080p, 720p, 480p
+<br /> No anti adblock   Comments
+<br /> Mobile Responsive
+<br /> Quality 1080p, 720p, 480p
 
 ### Streaming
 
