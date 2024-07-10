@@ -2,7 +2,7 @@
 
 ### Streaming
 
-- [AniWave New 9Anime](https://aniwave.to/)
+- [AniWave](https://aniwave.to/) New 9Anime
 - [KickAssAnime + Crunchy, Bilibili](https://www2.kickassanime.ro/)
 - [HiAnime New Zoro](https://hianime.to/home)
 - [AnimePahe](https://animepahe.com/)
