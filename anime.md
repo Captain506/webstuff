@@ -10,7 +10,7 @@
 - [AnimePahe](https://animepahe.com/)
 - [AllAnime + Crunchy, Gogo](https://allmanga.to/anime)
 - [Anitaku New Gogo](https://anitaku.to/)
-- - [Anicrush](https://anicrush.to/)
+- [Anicrush](https://anicrush.to/)
 <br /> No anti adblock   Comments
 <br /> Mobile Responsive
 <br /> Quality 1080p, 720p, 480p
