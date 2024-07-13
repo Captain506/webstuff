@@ -23,3 +23,23 @@
 - [WatchDocumentaries](https://watchdocumentaries.com/)
 - [DocumentaryTube](https://www.documentarytube.com/)
 - [TopDocumentaryFilms](https://topdocumentaryfilms.com/)
+
+ ## Torrent Websites and Search Engines
+
+- [1337x](https://1337x.to/)
+- [RARBG](https://rarbg.to/)
+- [Torrent Galaxy](https://torrentgalaxy.to/)
+- [EZTV](https://eztv.re/)
+- [BTDIGG](https://btdig.com/)
+- [TORLOCK](https://www.torlock2.com/)
+- [snowfl](https://snowfl.com/)
+- [watchSOmuch](https://watchsomuch.to/)
+- [KNABEN](https://knaben.eu/)
+- [BT4G](https://bt4g.org/)
+- [BITSEARCH](https://bitsearch.to/)
+- [Magnet DL](https://www.magnetdl.com/)
+- [Torrentz2](https://torrentz2.nz/)
+- [AIO Search](https://www.aiosearch.com/)
+- [rutracker](https://rutracker.org/forum/index.php)
+  - [Register here first](https://rutracker.org/forum/profile.php?mode=register)
+
