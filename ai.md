@@ -65,7 +65,6 @@
 ## Images
 
 - [Adobe Firefly](https://firefly.adobe.com/)
- <br /> Superb
 
 - [ruDALL-E](https://rudalle.ru/kandinsky2)
 
