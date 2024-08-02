@@ -27,7 +27,6 @@
 - [Kayo Anime GDrive](https://kayoanime.com/)
 - [Chauthanh Direct](https://chauthanh.info/)
 - [Anime Time GDrive Ads](https://www.animetime.pw/)
-- [RIP Crabby Anime GDrive](https://ripcrabbyanime.in/)
 - [rbx1](http://59.rbx5.ovh.abcd.network/)
 - [rbx2](http://52.rbx5.ovh.abcd.network/)
 - [rbx3](http://511.rbx.abcvg.ovh/)
