@@ -8,10 +8,9 @@
 - [SportSurge](https://sportsurge.club/)
 - [AJ Sports](https://ajsports.ch/AJ-Sports-TV.html)
 - [VIPLeague](https://vipleague.im/) 
-- [720pStream.tv](http://720pstream.tv/)
-                                                                                        ### Redirect to     
+- [720pStream.tv](http://720pstream.tv/)  
 - [MHD TV World](https://mhdtvworld.me/channel/sports/)                            
-- [SportsHub.stream](https://sportshub.stream/)                                      - [Movies streaming](movies_streaming.md)
+- [SportsHub.stream](https://sportshub.stream/)           
 - [Streamed.su](https://streamed.su/)
 - [MethStreams](https://meth.amethstreams.com/)  
 - [CrackStreams](https://watch.crackstreams.me/crackedtoday9)
