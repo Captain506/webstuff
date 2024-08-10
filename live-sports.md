@@ -64,7 +64,7 @@
 - [Full Eventos Spanish](https://fulleventos-deportes.blogspot.com/)
 
 
-### <span style="color:red"> Redirect to</span>
+### 🚀 Redirect to
 - [Movies streaming](movies_streaming.md)
 - [Online Streaming](online_streaming.md)
 - [Gaming](gaming.md)
