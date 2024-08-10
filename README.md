@@ -2,7 +2,7 @@
 # geekstuff
 Welcome
 <br>
-Welcome to this repo, where you'll find a wide range of resources across various genres.The repo is frequently updated and always welcomes community contributions.
+Welcome, here you'll find a wide range of resources across various genres.The repo is frequently updated and always welcomes community contributions.
 
 This repository contains a curated list of websites categorized by genre.
 
