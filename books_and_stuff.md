@@ -16,7 +16,7 @@
 
 - [Z-Library](https://singlelogin.re/)
 - [Z-Library Android App](https://www.fireload.com/dd08ce72de596343/z-library.apk)
-- [Z-Library Telegram](https://singlelogin.re/)
+- [Z-Library Telegram](https://t.me/zlibrary_official)
 - [Z-Library Reddit](https://www.reddit.com/r/zlibrary/)
 
 # Audiobooks
