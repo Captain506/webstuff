@@ -2,7 +2,7 @@
 
 ## Websites
 
--[Z-Library](https://github.com/mishansharma/webstuff/blob/main/books_and_stuff.md#how-to-acess-z-library)
+- [Z-Library](https://github.com/mishansharma/webstuff/blob/main/books_and_stuff.md#how-to-acess-z-library)
 - [Annas Archive](https://annas-archive.org/)
 - [Libgen 1](https://libgen.rs/)
 - [Libgen 2](https://libgen.fun/)
