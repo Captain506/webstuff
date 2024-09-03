@@ -4,11 +4,11 @@
 
 ### Streaming
 
-- [KickAssAnime + Crunchy, Bilibili](https://www2.kickassanime.ro/)
+- [KickAssAnime](https://www2.kickassanime.ro/)
 - [HiAnime New Zoro](https://hianime.to/home)
 - [AnimePahe](https://animepahe.com/)
-- [AllAnime + Crunchy, Gogo](https://allmanga.to/anime)
-- [Anitaku New Gogo](https://anitaku.to/)
+- [AllAnime ](https://allmanga.to/anime)
+- [Anitaku](https://anitaku.to/)
 - [Anicrush](https://anicrush.to/)
     <br />     No anti adblock   Comments
     <br />     Mobile Responsive
